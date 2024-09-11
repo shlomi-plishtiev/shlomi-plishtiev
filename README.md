@@ -23,10 +23,6 @@
 
 ---
 
-### 📈 **סטטיסטיקות ב-GitHub**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shlomi9177&show_icons=true&theme=radical)
-
----
 
 ### 💼 **פרויקטים בולטים**
 
@@ -48,7 +44,6 @@
 
 - 📧 אימייל: [shlomi9177@gmail.com](mailto:shlomi9177@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/shlomi9177)
-- 🔧 [GitHub](https://github.com/shlomi9177)
 
 ---
 
@@ -58,11 +53,4 @@
 - רוסית: בסיסית
 
 ---
-
-### 🌱 **מה אני לומד עכשיו**
-כעת אני מתמקד בלימוד טכנולוגיות זמן אמת (Real-Time Technologies) ובחקר פתרונות מבוזרים מתקדמים עם WebSockets ודאטה מנג'מנט.
-
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=shlomi9177&style=flat-square&color=blue)
 
