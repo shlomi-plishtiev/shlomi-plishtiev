@@ -26,7 +26,6 @@
 
 ### 💼 **פרויקטים בולטים**
 
-#### [🔗 Complex Marketplace Platform (Inspired by Fiverr)](https://github.com/shlomi9177/marketplace-project)
 פלטפורמה מסחרית מורכבת שמאפשרת תקשורת בזמן אמת בין קונים ומוכרים, עם מערכת ניהול מוצרים ואינטגרציה לתשלומים מאובטחים. בניית המערכת כללה:
 - פיתוח ממשק משתמש מתקדם.
 - אינטגרציה של WebSockets לתקשורת בזמן אמת.
